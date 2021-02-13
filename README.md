@@ -5,4 +5,4 @@ Design By
 Md Litan Sarkar
 Contact : 
 litansarkar95@gmail.com
-<a href="https://www.facebook.com/litansarkar95">Facebook</a> |<a href="https://www.linkedin.com/in/litansarkar95/">Linkedin</a>
+<a href="https://www.facebook.com/litansarkar95">Facebook</a> | <a href="https://www.linkedin.com/in/litansarkar95/">Linkedin</a>
